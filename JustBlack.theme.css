@@ -16,18 +16,18 @@
 }
 /* ends here */
 
-.guilds-wrapper, .private-channels, .channels-wrap, .search-bar, .account, .btn:not(.icon-logout):not(.icon-delete):not(.btn-primary):not(.create-role-button), #friends, .friends-header, .friends-table, .guild-header, header, .invite, .guild-channels, .scroller, .flex-spacer, .title-wrap, .messages-wrapper, .typing, .markup pre, .avatar-wrapper, #voice-connection, .guild-settings-modal-members, .tab-bar-container, #user-profile-modal > header:after, .scroller-wrap.fade > .scroller.guilds, .user-popout > header, .user-popout > .footer, .markdown-modal.change-log, .markdown-modal-footer, .popout-menu-item, .settings-inner, .settings-actions, .authed-app, .form > .form-header, .form > .form-inner, .form > .form-actions, #autocomplete-popout, #autocomplete-popout > section > .scroller-wrap > .scroller, .option.search-query, .modal-content.form.need-help-modal > .footer, .emoji-picker, .option-popout, #voice-connection-popout > header, .context-menu {
+.guilds-wrapper, .channel-textarea-autocomplete-inner, .channel-textarea-autocomplete-inner header, .channel-textarea-autocomplete-inner ul li.active, .private-channels, .channels-wrap, .search-bar, .account, .btn:not(.icon-logout):not(.icon-delete):not(.btn-primary):not(.create-role-button), #friends, .friends-header, .friends-table, .guild-header, header, .invite, .guild-channels, .scroller, .flex-spacer, .title-wrap, .messages-wrapper, .typing, .markup pre, .avatar-wrapper, #voice-connection, .guild-settings-modal-members, .tab-bar-container, #user-profile-modal > header:after, .scroller-wrap.fade > .scroller.guilds, .user-popout > header, .user-popout > .footer, .markdown-modal.change-log, .markdown-modal-footer, .popout-menu-item, .settings-inner, .settings-actions, .authed-app, .form > .form-header, .form > .form-inner, .form > .form-actions, #autocomplete-popout, #autocomplete-popout > section > .scroller-wrap > .scroller, .option.search-query, .modal-content.form.need-help-modal > .footer, .emoji-picker, .option-popout, #voice-connection-popout > header, .context-menu {
     background: black !important;
 }
 .friends-row:hover, .friends-header > .tab-bar > .tab-bar-item:hover:not(.tab-bar-item-primary), .btn-friends, .channel-text.selected, .is-local-bot-message, .channel-textarea-inner, .callout-backdrop, .markup code.inline, .markup pre code.hljs, #user-profile-modal > .scroller-wrap.fade > .scroller.guilds > .guild:hover, .roles > .scroller-wrap.fade > .scroller > ul > li:hover, .scroller > ul > li.selected, .scroller.channel-members > .member:hover, .scroller.guild-channels > .channel:hover, .private-channels > .scroller-wrap > .scroller > .channel:hover, .private-channels > .scroller-wrap > .scroller > .channel.selected, #autocomplete-popout > section > .scroller-wrap > .scroller, .scroller-wrap > .scroller > .search-result.selected, .scroller-wrap > .scroller > .search-result:hover, .guilds-wrapper > .scroller-wrap > .scroller.guilds > .guild > div > .guild-inner, .member.member-status.member-status-online.popout-open, #settings-username, #settings-email, #settings-current-password, #nickname, #removal-code, #settings-name, #autocomplete-popout > section > .scroller-wrap > .scroller > .row.selected, .context-menu > .item:hover, #channel-name, #channel-topic, .empty:hover {
-    background: rgba(20, 20, 20, .8) !important;
+    background: rgba(20, 20, 20, 0.8) !important;
 }
 .divider > span, .divider > div, .unread::before, .selected::before, .tooltip, .settings-header, .btn-primary, .tab-bar-item.selected:before, .btn.btn-primary, #user-profile-modal > header, .new-messages-bar, #user-profile-modal > footer, .region-select:hover > button, .popout-menu-item:hover, .guilds-wrapper > .scroller-wrap > .scroller.guilds > .guild.selected > div > .guild-inner, .webhook.editing, .webhook-header {
     background: rgb(20, 20, 20) !important;
     color: white !important;
 }
 #user-profile-modal > header:after {
-    border-bottom: 2px solid white;   
+    border-bottom: 2px solid white;
 }
 #autocomplete-popout > section > .scroller-wrap > .scroller {
     border-top: 2px solid white;
