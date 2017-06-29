@@ -10,7 +10,7 @@
     background: -webkit-linear-gradient(left, rgba(0, 147, 196, .1), rgba(255, 255, 255, .1)) !important;
 }
 body {
-    background: url(https://i.imgur.com/uTVZzkC.jpg) !important;
+    background: (urlhttp://imgur.com/a/nw1AH.jpg) !important;
     background-size: cover !important;
 }
 .guilds-wrapper, .private-channels, .channels-wrap, .search-bar, .account, .btn:not(.icon-logout):not(.icon-delete):not(.btn-primary):not(.create-role-button), #friends, .friends-header, .friends-table, .guild-header > header, .invite, .guild-channels, .scroller, .flex-spacer, .title-wrap, .messages-wrapper, .typing, .markup pre, .avatar-wrapper, #rtc-connection, .guild-settings-modal-members, .note > textarea, .bda-slist > li, #bd-customcss-attach-controls, .flex-lFgbSz.flex-3B1Tl4.vertical-3X17r5.flex-3B1Tl4.directionColumn-2h-LPR.justifyStart-2yIZo0.alignStretch-1hwxMa.noWrap-v6g9vO.container-RYiLUQ, .scrollerWrap-2uBjct.scrollerThemed-19vinI.themeGhost-10fio9.scrollerFade-28dRsO, .scroller-fzNley.channel-members {
