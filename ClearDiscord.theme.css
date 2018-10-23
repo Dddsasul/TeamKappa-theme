@@ -1,4 +1,4 @@
-//META{"name":"Clear Discord","description":"A nice and clean theme with blue highlights","author":"Dddsasul","version":"2.0.3"}*//
+//META{"name":"Clear Discord","description":"A nice and clean theme with blue highlights","author":"Dddsasul","version":"2.0.4"}*//
 
 
 /* Make The Image Darker */
@@ -17,28 +17,27 @@
     background: none !important;
 }
 
-.layers, .appMount-14L89u, .layer-kosS71, .layers-20RVFW {
+.layers-3iHuyZ, .layer-3QrUeG, .appMount-3VJmYg, .container-2lgZY8 {
     background: none !important;
 }
 
 /* Background Image URL Must be HTTPS */
 body {
-    /*background: url(https://i.imgur.com/uTVZzkC.jpg) !important;*/
-    background: url(https://giant.gfycat.com/DecisiveSorrowfulGuineapig.gif) !important;
+    background: url(https://i.imgur.com/uTVZzkC.jpg) !important;
     background-size: cover !important;
     height: 100vh !important;
     background-repeat: no-repeat !important;
 }
 
-.guilds-wrapper {
+.guildsWrapper-5TJh6A {
     background: none !important;
 }
 
-.private-channels, .search-bar {
+.channels-Ie2l6A, .search-bar-inner, .container-2Thooq {
     background: none !important;
 }
 
-#friends, .friends-header, .friends-table {
+#friends, .headerBar-UHpsPw, .friends-table {
     background: none !important;
 }
 
@@ -64,30 +63,26 @@ body {
 /* ===================================================== */
 
 /* Channels section */
-.channels-wrap, .flex-lFgbSz {
+.container-PNkimc {
 	background: none !important;
 }
 
 /* Top Bar, Bottom Bar, Messages, Member List, Form, Channels */
-.content, .chat, .messages-wrapper, .scroller-fzNley, form, .channels-3g2vYe {
+.content-yTz4x3, .messagesWrapper-3lZDfY, .chat-3bRxxu, .chat-3bRxxu form, .members-1998pB {
     background: none !important;
 }
 
 /* Selected Text Chanel */
-.contentSelectedText-3j5CXt {
+.contentSelectedText-3wUhMi {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(41, 137, 216, 0.4)) !important;
 }
-/* Selected Text Chanel Hovered */
-.contentSelectedText-3j5CXt:hover {
-    background: linear-gradient(90deg, rgba(91, 187, 255, 0.6), rgba(41, 137, 216, 0.4)) !important;
-}
 /* Hovered Text Channel */
-.contentHoveredText-2HYGIY {
+.content-20Aix8:hover {
     background: linear-gradient(90deg, rgba(91, 187, 255, 0.6), rgba(0, 0, 0, 0)) !important;
 }
 
 /* Unread Messages */
-.unread-23Kvxk {
+.unread-1Dp-OI {
     position: absolute;
     left: 10px;
     top: 30px;
@@ -98,23 +93,24 @@ body {
     animation: unread 3s ease-out infinite !important;
 }
 
-.guild.unread:before {
+.unread-qLkInr:before {
     background: rgba(91, 187, 255, 0.7) !important;
     animation: unread 3s ease-out infinite !important;
 }
 
 /* Mentions Indicator */
-.wrapper-2xO9RX, .badge {
+.badge-1GsMF2 {
     background: rgb(41, 137, 216);
     animation: mentions 3s infinite !important;
 }
 
-/* New Mentions Indicator */
+/* New Mentions Indicator 
 .new-messages-indicator {
     background: linear-gradient(90deg, black, rgb(91, 187, 255), black) !important;
-}
+}*/
 
-.new-messages-bar {
+/* New Messages Bar */
+.bar-30k2ka  {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(91, 187, 255, 0.4), rgba(0, 0, 0, 0.4)) !important;
 }
 
